@@ -1,0 +1,64 @@
+body { margin:0 ;
+    padding:0 ;
+    background-image:url( pngtree-d-online-shopping-promotion-concept-with-smartphone-mockup-on-dark-background-picture-image_1389345.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+nav ul{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background:#444 ;
+}
+nav ul li{ 
+    display: inline-block;
+    font-size: 1.1em;
+    padding: 12px;
+}
+nav a{text-decoration:none ;
+    color:#FFF ;
+    padding: 12px;
+}
+nav a:hover { 
+    background:#188c9c ;
+    color: #FFF;
+}
+#content{
+    color: lawngreen;
+    margin-top: 200px;
+    width: 100%;
+    text-align: center;
+}
+#content h1{
+font-size: 80px;  
+font-weight:normal;
+margin-bottom: -17px;
+}
+#content h4{
+font-weight: 70px;
+margin-top: 0;
+letter-spacing: 20px;
+color: rgb(101, 2, 2);
+}
+footer{ 
+background:#444 ;
+color:#ffffff ;
+padding: 18px;
+margin-top: 250px;
+}
+.footerLeft, .footerRight{ 
+display: inline-block;
+}
+.footerLeft a{
+    color:#bbb ;
+    text-decoration:none ;
+    padding:5px ;
+}
+.footerLeft a:hover { 
+ color:#fff ;    
+}
+.footerRight{
+float: right;
+}
+
+
